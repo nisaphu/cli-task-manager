@@ -1,0 +1,21 @@
+# Binaries
+taskman
+*.exe
+*.exe?
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output / coverage
+*.out
+
+# Data persistence files generated during local execution
+tasks.json
+
+# System & Editor files
+.DS_Store
+.vscode/
+.idea/
