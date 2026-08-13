@@ -1,5 +1,5 @@
 # Binaries
-taskman
+/taskman
 *.exe
 *.exe?
 *.dll
